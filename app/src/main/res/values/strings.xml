@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnderBoard</string>
+    <string name="simple_ime">IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
